@@ -2,7 +2,7 @@
 
 把原生 Mac 小工具从功能原型推进到可验证、可安装、可发布的状态。
 
-[English](README.md) · [Skill 入口](skills/macos-utility-launch/SKILL.md)
+[English](README.md) · [下载最新版](https://github.com/Vtous/macos-utility-launch/releases/latest) · [Skill 入口](skills/macos-utility-launch/SKILL.md)
 
 经验来自 [OtterMate（水獭助手）](https://github.com/Vtous/OtterMate) 的实际开发，重点保留图标小尺寸故障、配置保留、真实交互验证与公开发布中的具体经验。
 
@@ -14,6 +14,8 @@
 - 两份示例：产品身份/验证规格与公开文件清单。
 
 命名和造型保留创作空间；不强制所有项目使用水獭、特定架构或固定权限。苹果公证与订阅支付只整理了后续接入范围，没有声称提供现成系统。
+
+1.0.1 流程更新优先使用已连接的 GitHub 插件与官方 GitHub CLI，在后台创建仓库、更新源码和上传发行附件，并涵盖账号/凭据存储检查、草稿上传、远端校验及中断恢复。网页自动操作作为后备，账号授权仍由用户确认；项目选择 GitHub 作为发布渠道时再使用这部分流程。
 
 ## 安装和调用
 

@@ -2,7 +2,7 @@
 
 **A Codex skill for developing, validating, branding, packaging, and preparing native macOS utilities for release.**
 
-[简体中文](README.zh-CN.md) · [Skill entrypoint](skills/macos-utility-launch/SKILL.md)
+[简体中文](README.zh-CN.md) · [Download](https://github.com/Vtous/macos-utility-launch/releases/latest) · [Skill entrypoint](skills/macos-utility-launch/SKILL.md)
 
 Built from the real development of [OtterMate](https://github.com/Vtous/OtterMate), this skill preserves practical lessons about tiny menu bar icons, complete ICNS files, configuration-preserving upgrades, isolated testing, and clean public releases.
 
@@ -14,6 +14,8 @@ Built from the real development of [OtterMate](https://github.com/Vtous/OtterMat
 - A sanitized OtterMate case study and example project/file-list specifications.
 
 The skill does not prescribe an otter mascot, require a specific app architecture, or publish projects without task authorization. Developer ID notarization and subscription billing are future integration topics, not implemented services.
+
+The 1.0.1 workflow update prioritizes the connected GitHub integration plus the official GitHub CLI for background repository creation, source updates, and release uploads. It covers account and credential-store checks, draft uploads, remote digest verification, and interrupted-upload recovery. Browser automation is a fallback; account authorization still requires the user's consent. Use this publishing route when the project chooses GitHub as its destination.
 
 ## Install
 
