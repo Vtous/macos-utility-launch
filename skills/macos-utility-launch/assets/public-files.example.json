@@ -1,0 +1,9 @@
+{
+  "files": [
+    "README.md",
+    "LICENSE",
+    "Sources/main.swift",
+    "Resources/Info.plist",
+    "Resources/AppIcon.icns"
+  ]
+}

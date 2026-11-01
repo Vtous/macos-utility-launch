@@ -1,0 +1,25 @@
+{
+  "files": [
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "README.zh-CN.md",
+    "public-files.json",
+    "skills/macos-utility-launch/LICENSE",
+    "skills/macos-utility-launch/SKILL.md",
+    "skills/macos-utility-launch/agents/openai.yaml",
+    "skills/macos-utility-launch/assets/project-spec.example.json",
+    "skills/macos-utility-launch/assets/public-files.example.json",
+    "skills/macos-utility-launch/references/native-app-and-validation.md",
+    "skills/macos-utility-launch/references/ottermate-case-study.md",
+    "skills/macos-utility-launch/references/product-and-naming.md",
+    "skills/macos-utility-launch/references/release-and-privacy.md",
+    "skills/macos-utility-launch/references/script-tools.md",
+    "skills/macos-utility-launch/references/upgrade-and-icons.md",
+    "skills/macos-utility-launch/references/visual-identity.md",
+    "skills/macos-utility-launch/scripts/make_icons.py",
+    "skills/macos-utility-launch/scripts/package_app.py",
+    "skills/macos-utility-launch/scripts/prepare_public.py",
+    "tests/test_tools.py"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "display_name_zh": "示例助手",
+  "display_name_en": "ExampleMate",
+  "app_bundle_name": "示例助手.app",
+  "executable_name": "ExampleMate",
+  "bundle_identifier": "com.example.ExampleMate",
+  "configuration_directory": "ExampleMate",
+  "version": "0.1.0",
+  "build_number": "1",
+  "minimum_macos": "14.0",
+  "architectures": ["arm64"],
+  "app_icon_resource": "AppIcon.icns",
+  "menu_icon_resource": "MenuBarIcon.png",
+  "signing_mode": "ad-hoc",
+  "notarization": "not-performed",
+  "network_features": [],
+  "required_permissions": [],
+  "validation": {"tested_systems": [], "tested_machines": [], "checks_performed": []}
+}

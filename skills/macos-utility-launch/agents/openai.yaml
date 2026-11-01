@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS 小工具开发与发布"
+  short_description: "从原型、命名与图标，到真实验证、保留配置升级和公开发布的原生 Mac 小工具流程"
+  default_prompt: "使用 $macos-utility-launch 完成这款原生 Mac 小工具当前阶段的开发、验证或发布准备，并保留已有配置与用户已确认的品牌选择。"
